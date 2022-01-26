@@ -9,11 +9,10 @@
 
 <img src="https://badgen.net/badge/Skills/python/Red?icon=terminal&labelColor=blue"></a> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=HappyBoy05&label=Profile%20views&color=0e75b6&style=flat" alt="HappyBoy05" /> </p>
-
-
  ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/HappyBoy05/)
 
+<br><p align="center"><b>Vɪꜱɪᴛᴏʀꜱ Cᴏᴜɴᴛ</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{HappyBoy05}/count.svg" /></p> 
 
 
 
