@@ -25,7 +25,7 @@
 [![Generic badge](https://img.shields.io/badge/REACHME-@-<COLOR>.svg)](https://t.me/happyboy59)[![telegrambadge](https://img.shields.io/badge/HappyBoy-30302f?style=flat&logo=telegram)](https://telegram.dog/HappyBoy59)
 
 <div align="center">
-  <a href="https://open.spotify.com/user/313sf4krm3yjsnyvj3d6gcmczk34">
+  <a href="https://open.spotify.com/user/9vjjvkwxwh32j7s9r8dee3yto">
     <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
   </a>
 </div>
