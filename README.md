@@ -67,9 +67,8 @@ ___
 <br />
 <br />
 
-<p align="center">
+
   <a href="https://github.com/HappyBoy05">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=HappyBoy05#version3"/>
   </a>
-</p>
 
