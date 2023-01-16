@@ -72,5 +72,4 @@ ___
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=HappyBoy05#version3"/>
   </a>
 </p>
-<a href="https://github.com/HappyBoy05"><img alt="Happy Boy's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=HappyBoy05&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
